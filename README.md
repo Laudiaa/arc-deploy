@@ -1,13 +1,43 @@
-# Sample Hardhat Project
+# Arc Builder Testnet 🚀
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Experimental builder repository for exploring AI agents, smart contract deployment, NFT workflows, and onchain automation within the Arc ecosystem.
 
-Try running some of the following tasks:
+Built using Solidity, Foundry, ERC20/ERC721 standards, and AI-driven automation tooling.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+
+---
+
+## Features
+
+- AI Agent Registration
+- ERC20 Token Deployment
+- ERC721 NFT Deployment
+- NFT Mint & Burn
+- Smart Contract Interaction
+- Contract Event Monitoring
+- Automation Scripts
+- Wallet Monitoring
+- ARC MCP Integration
+
+---
+
+## Tech Stack
+
+- Solidity
+- Foundry
+- JavaScript
+- TypeScript
+- ERC20 / ERC721
+- Arc Testnet
+
+---
+
+## Purpose
+
+This project was created to explore the Arc ecosystem through practical smart contract deployment, AI agent experimentation, and onchain automation workflows.
+
+---
+
+## Author
+
+Built by @Laudiaa
